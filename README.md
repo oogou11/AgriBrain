@@ -2,6 +2,8 @@
 
 AgriBrain is a cloud-native smart agriculture platform based on **Spring AI Alibaba**, **JDK 17**, and **Alibaba Cloud ACK (Container Service)**. It integrates **DeepSeek Large Model**, **Milvus Vector Database**, and **Nebula Graph Database** to provide precise farmland management, crop prediction, pest and disease detection, and intelligent decision support. It supports **local container deployment** and **cloud-native AIOps**, enabling flexible deployment both on-premise and in the cloud, with AIOps technology for intelligent operations management.
 
+![image](https://github.com/user-attachments/assets/4c26d952-1d46-43da-bd8a-f587a2bee4f3)
+
 ## Features
 
 - **Farmland Management**: Provides accurate farmland environment monitoring and management recommendations, helping farmers efficiently manage their land.
