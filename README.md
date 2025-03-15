@@ -13,6 +13,7 @@ AgriBrain is a cloud-native smart agriculture platform based on **Spring AI Alib
 - **Cloud-Native Architecture**: Implements containerized deployment on **Alibaba Cloud ACK**, supporting high scalability and high availability.
 - **Local Container Deployment**: Supports local deployment and management using **Docker** and **Kubernetes**, facilitating development and testing.
 - **AIOps**: Leverages cloud-native AIOps technologies for intelligent monitoring, fault diagnosis, performance optimization, and automated operations management.
+
 ![image](https://github.com/user-attachments/assets/57171534-6d9e-4c9f-a2c2-c17b4d215f0a)
 
 
